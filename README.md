@@ -1,0 +1,1 @@
+# smart-school-cordova-version
